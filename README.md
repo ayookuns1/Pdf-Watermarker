@@ -26,14 +26,14 @@ The PDF Watermarker App is a Python application that enables you to add a waterm
 
 1. Run the application by executing the `watermark.py` script:
    ```shell
-   python main.py
+   python watermark.py
    ```
 2. The application window will appear.
 3. Follow the on-screen instructions to perform the following steps:
    - Select a template PDF file by clicking the "Browse" button next to "Select Template PDF."
    - Select a watermark PDF file by clicking the "Browse" button next to "Select Watermark PDF."
    - Click the "Watermark PDF" button to generate the watermarked PDF file.
-4. The watermarked PDF file will be saved in the same directory as the `main.py` script.
+4. The watermarked PDF file will be saved in the same directory as the `watermark.py` script.
 
 ## Screenshots
 
